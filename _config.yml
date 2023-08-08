@@ -1,6 +1,11 @@
+url: 'https://haervig.dk'
+baseurl: '/'
+
 permalink: pretty
 title: Jakob Hærvig
+
 logo: /assets/img/logo.png
+
 description: As
 show_downloads: true
 google_analytics:
