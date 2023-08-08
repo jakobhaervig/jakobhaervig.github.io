@@ -2,11 +2,11 @@
 layout: default
 ---
 
-[Link to another page](./courses.html).
+[Link to another page](./courses).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./courses.html).
+[Link to another page](./courses).
 
 There should be whitespace between paragraphs.
 
