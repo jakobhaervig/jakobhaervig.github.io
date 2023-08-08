@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Link to another page](./courses).
+[Link to another page]({{ site.url }}{% link courses.md %})
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 

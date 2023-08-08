@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: "/courses/"
 ---
 
 ## Welcome to another page
