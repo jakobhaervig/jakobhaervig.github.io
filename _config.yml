@@ -2,10 +2,9 @@ url: 'https://haervig.com'
 
 permalink: pretty
 title: Jakob Hærvig
-
-logo: /assets/img/logo.png
-
-description: As
+cv: 'https://cv.haervig.com'
+logo: /assets/img/portrait.png
+description: Associate Professor at AAU
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal

@@ -2,123 +2,43 @@
 layout: default
 ---
 
-[Link to another page]({{ site.url }}{% link courses.md %})
+# Teaching
+*The following highlights some of my teaching activities. They range from traditional semester courses to specialised PhD courses to simple guides and workshops.* 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Course: Heat transfer
+I teach a full course covering many aspects of heat transfer for engineering students.
 
-[Link to another page](./courses).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+* *Access interactive course slides at: [courses.haervig.com/heat-transfer](https://courses.haervig.com/heat-transfer)*
 
 * * *
 
-### Here is an unordered list:
+### Guide: Python
+Python is gaining popularity for general purpose programming due to its ease of use and broad functionality. Quite a few approaches exist when setting up Python. I've created a set of interactive slides that explains how I personally prefer to install and work with Python.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+* *Access interactive slides at: [courses.haervig.com/python](https://courses.haervig.com/python)*
 
-### And an ordered list:
+* * *
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+### PhD Course: Open-source Computational Fluid Dynamics Course
+OpenFOAM is the most widely used open-source toolkit for CFD. The fact that OpenFOAM is open-source makes it highly versatile allowing you to modify any aspect of the code to his/her needs and set up fully automated workflows. While large scale simulations with commercial CFD software can be extremely expensive due to license fees, OpenFOAM® can be run on massively parallel HPC’s at no additional cost.
 
-### And a nested list:
+* *Access course webpage at: [opensourcecfdcourse.dk](https://opensourcecfdcourse.dk)*
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+* * *
 
-### Small image
+### Workshop: OpenFOAM Days
+OpenFOAM Days is an initiative I've crated to promote the use of open-source software for computational fluid dynamics simulations for engineering students. OpenFOAM has a notorously steep learning curve and the goal of this workshop is to students smoothen it out.  
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+* *Access workshop page at (requires AAU-login): [openfoamdays.aau.dk](https://openfoamdays.aau.dk)*
 
-### Large image
+* * *
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# Research
+The following lists some of my recent research.
 
+### OpenTerrace
+OpenTerrace is a pure Python framework for thermal energy storage packed bed simulations. It is built from the ground up to be flexible and extendable on modern Python 3.x with speed in mind. It utilises Nvidia CUDA cores to harness the power of modern GPUs and has automatic fallback to CPU cores.
 
-### Definition lists can be used with HTML syntax.
+* *Access the documentation with details at: [openterrace.github.io/openterrace-python/](https://openterrace.github.io/openterrace-python/)*
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+* * *
