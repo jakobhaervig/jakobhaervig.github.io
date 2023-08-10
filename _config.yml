@@ -8,3 +8,6 @@ description: Associate Professor at AAU
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+github:
+  owner_url: 'https://github.com/jakobhaervig'
