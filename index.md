@@ -2,6 +2,11 @@
 layout: default
 ---
 
+Hi,
+I am an Associate Professor at Aalborg University. My work focuses on fluid dynamics and currently more specifically around heat storage, the dynamics or agglomerating particulate flows and heat exchangers.
+
+If you are interested in my teaching or research, feel free to browse below or reach out via email.
+
 # Teaching
 *The following highlights some of my teaching activities. They range from traditional semester courses to specialised PhD courses to simple guides and workshops.* 
 
