@@ -17,15 +17,14 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://cv.haervig.com
+resume-url: https://cv.jakobhaervig.com
 
-url: https://haervig.com
+url: https://jakobhaervig.com
 
 permalink: /:title/
 
 linkedin: jakobhaervig
 github: jakobhaervig
-email: jakob.haervig@gmail.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
